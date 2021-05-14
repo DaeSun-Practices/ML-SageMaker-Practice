@@ -1,0 +1,2 @@
+{"boss_health":{"n":"300"},"warrior_attack":{"n":"30"},"success":{"bOOL":true},"time":{"n":"10"},"ID":{"n":"1"}}
+{"boss_health":{"n":"1000"},"warrior_attack":{"n":"10"},"success":{"bOOL":false},"time":{"n":"100"},"ID":{"n":"0"}}
